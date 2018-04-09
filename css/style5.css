@@ -1032,6 +1032,7 @@ input[type="text"] {
   left: 0;
   border: 2px solid #3c7dcf;
   border-radius: 0;
+  text-align: left;
   box-shadow: none;
 }
 .modal-header {
